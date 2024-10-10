@@ -1,0 +1,4 @@
+Mi IP publica es: 138.59.142.137
+Mi Usuario es: matias
+El Hash de mi Usuario es: $y$j9T$Zct36P.rTta3sJm4XHsq4/$pL3s.gfOZ0nQAL1TNRsWrJHvjpho9nw9q1QPhe5eVb0
+La URL de mi repositorio es: git@github.com:MatiasEzequielMoralesBautista/UTNFRA_SO_1P2C_2024_MORALES.git
